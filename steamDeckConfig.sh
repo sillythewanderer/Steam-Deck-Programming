@@ -14,6 +14,7 @@ sudo pacman-key --init
 sudo pacman-key --populate holo
 sudo pacman-key --populate archlinux
 sudo pacman -S make linux-headers glibc
+sudo pacman -S alsa-lib mesa libx11 libxrandr libxi libxcursor libxinerama
 
 else 
 printf "\nyou entered \"n\" (or an invalid input)\n"
