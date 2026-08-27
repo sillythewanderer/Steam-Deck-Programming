@@ -7,3 +7,4 @@ sudo pacman -S alsa-lib mesa libx11 libxrandr libxi libxcursor libxinerama
 sudo pacman -S zig
 sudo pacman -S raylib
 sudo pacman -S nvim
+exit
